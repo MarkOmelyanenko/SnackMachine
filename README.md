@@ -40,5 +40,5 @@ Command accepts the following parameters:
 * The purchase and report commands do not work correctly
 
 ## Bugs
-* There is a bug in the purchase method(The same snack can be recorded 2 times in the table as different in a certain order of purchase of products). I think the problem is in some cheks
-* There is a bug in the report method(incorrectly displays the report for a specific day; does not show a report for a specific month). I think the problem is in some cheks and retrieval of data from the table
+* There is a bug in the purchase method(In line 207. The same snack can be recorded 2 times in the table as different in a certain order of purchase of products). I think the problem is in some cheks
+* There is a bug in the report method(In line 441. Incorrectly displays the report for a specific day; does not show a report for a specific month). I think the problem is in some cheks and retrieval of data from the table
