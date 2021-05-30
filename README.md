@@ -4,6 +4,7 @@ It's a basic version of a snack vending machine. You can manage different snack 
 ## What you need for the correct operation of the program
 * You need to connect to MySQL (I used the DB Navigator plugin)
 * Everything else will be installed by maven
+* Just run the code. Creating tables is spelled out in the code :)
 
 ## What did I use in the project?
 * Java 8
